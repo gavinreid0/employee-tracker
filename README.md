@@ -17,7 +17,7 @@ The following gif shows the application's apperance and functionality:
    Gavin Reid 
   
 # Questions
-  @ gavinreid94@gmail.com
+  gavinreid94@gmail.com
   
   [![Gavins's github stats](https://github-readme-stats.vercel.app/api?username=gavinreid0&theme=blue-green)](https://github.com/gavinreid0/github-readme-stats)
 
