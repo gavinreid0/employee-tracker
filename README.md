@@ -1,3 +1,3 @@
 # employee-tracker
 
-![link](./Assets/employee-tracker-vid.mov)
+![link](./Assets/ezgif.com-optimize.gif)
