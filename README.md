@@ -14,4 +14,8 @@ The following gif shows the application's apperance and functionality:
   ![GitHub license](https://img.shields.io/badge/license-mit-blue.svg)
   
 # Questions
+  @ gavinreid94@gmail.com
   
+  
+  [![Gavins's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/gavinreid0/github-readme-stats)
+
