@@ -8,6 +8,7 @@
   
 ## Usage
 The following gif shows the application's apperance and functionality:
+  [link to video on YT](https://youtu.be/oFUaGjB3CV8)
   ![link](./Assets/ezgif.com-optimize.gif)
   
 # License
