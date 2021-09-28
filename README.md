@@ -1,7 +1,7 @@
 # employee-tracker
 
 ## Description
-   Desc.
+   This apllication utilizes node.js, inquirer, and MySQL database which allow users to store and manage information about employees that dynaimcally updates with new information added to the database.
 
 ## Installation
     npm i
