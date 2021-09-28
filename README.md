@@ -1,10 +1,10 @@
 # employee-tracker
 
 ## Description
-    Desc.
+   Desc.
 
 # Installation
-  npm i
+    npm i
   
 # The following gif shows the application's apperance and functionality:
   ![link](./Assets/ezgif.com-optimize.gif)
